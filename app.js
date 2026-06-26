@@ -9,5 +9,4 @@ const App =()=>{
     )
 }
 
-const root = createRoot(document.getElementById('root'));
 export default App;
